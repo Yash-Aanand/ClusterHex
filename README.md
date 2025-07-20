@@ -105,7 +105,6 @@ MIT — free to use, modify, and distribute.
 
 **Yash Aanand**  
 Computer Science @ University of Waterloo  
-Building accessible tools with computer vision and full-stack magic.
 
 - 🌐 [yashaanand.com](https://yashaanand.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-aanand-35192b273/)
